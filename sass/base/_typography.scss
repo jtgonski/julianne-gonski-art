@@ -1,0 +1,16 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 300; 
+    font-size: 1.6rem;
+    line-height: 1.7; 
+    color: $color-text-primary;
+}
+
+a {
+    text-decoration: none; 
+    color: $color-text-primary; 
+}
+
+a:hover {
+    color: $color-accent; 
+}
